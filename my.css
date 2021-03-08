@@ -1,0 +1,4 @@
+background: #1C6EA4;
+background: -moz-radial-gradient(center, #1C6EA4 0%, #2388CB 50%, #144E75 100%);
+background: -webkit-radial-gradient(center, #1C6EA4 0%, #2388CB 50%, #144E75 100%);
+background: radial-gradient(ellipse at center, #1C6EA4 0%, #2388CB 50%, #144E75 100%);
